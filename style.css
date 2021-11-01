@@ -138,16 +138,13 @@ footer a {
   }
 }
 
-@media only screen and (max-width: 812px) {
+@media only screen and (max-width: 480px) {
   body {
-    font-size: 50px;
-    margin: 200px;
-  }
-  .container {
-    height: 200vh;
+    font-size: 30px;
+    margin-top: 40px;
   }
   .header img  {
-    width: 350px;  
+    width: 200px;  
   }
  
   
