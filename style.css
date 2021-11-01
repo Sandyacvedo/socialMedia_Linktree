@@ -136,6 +136,9 @@ footer a {
   .links a {
     background-color: var(--prime-color-fill);
   }
+  footer a{
+    color: #000;
+  }
 }
 
 @media only screen and (max-width: 480px) {
