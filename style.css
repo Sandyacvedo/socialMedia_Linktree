@@ -140,13 +140,14 @@ footer a {
 
 @media only screen and (max-width: 812px) {
   body {
-    font-size: 30px;
-    margin: 50px;
+    font-size: 50px;
+    margin: 200px;
   }
   .container {
+    height: 200vh;
   }
   .header img  {
-    width: 250px;  
+    width: 350px;  
   }
  
   
